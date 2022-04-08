@@ -3,7 +3,7 @@ This is supposed to contain a table of issues in the current environment with cI
 
 ## Overview
 
-|No   	|Issue Name   	|Issue short Description   	|Usual workaround   	|Impact   	|Solution in ONE Record |
+|No   	|Issue Name   	|Issue short Description   	|Impact|Usual workaround   	   	|Solution in ONE Record |
 |---	|---	|---	|---	|---	|--- |
 |1   	|Shipper´s Name   	|Street address cannot be transmitted correctly due to length limitation in cXML, cIMP   	|???   	|???   	|Data model is fully capable |
 |2   	|...   	|...	|...   	|...   	|... |
