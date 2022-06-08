@@ -5,10 +5,12 @@ This is supposed to contain a table of issues in the current environment with cI
 
 |No   	|Issue Name   	|Issue short Description   	|Impact|Usual workaround   	   	|Solution in ONE Record |
 |---	|---	|---	|---	|---	|--- |
-|1   	|Shipper´s Name   	|Street address cannot be transmitted correctly due to length limitation in cXML, cIMP   	|???   	|???   	|Data model is fully capable |
+|1   	|Shipper / Consignee Name / Street  	|Name and street address cannot be transmitted correctly due to length limitation in cXML, cIMP   	|???   	|???   	|Data model is fully capable |
 |2   	|IOT data, digital checksheets and digital accompanying docs not possible   	|Modern data types like PDFs, geolocations, temperatures, etc. cannot be shared in the current environment using an industry standard	| lack of innovation, loss of efficiency and transparency |bi-lateral generic interfaces   	|works by design |
-|3   	|...   	|...	|...   	|...   	|... |
-|4   	|...   	|...	|...   	|...   	|... |
+|3   	|SLAC greater than 99.999   	|Length restriction on SLAC number (max 5 digits)	|...   	|...   	|Data model is fully capable |
+|4   	|Precision for small weight  	|Some high value freight has weight where 2nd decimal is required, cXML/cIMP only allows 1 digit	|...   	|...   	|Data model is fully capable |
+|5   	|...   	|...	|...   	|...   	|... |
+|6   	|...   	|...	|...   	|...   	|... |
 
 ## Additional details on 1
 ## Additional details on 2
